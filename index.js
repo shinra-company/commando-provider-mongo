@@ -1,4 +1,4 @@
-const SettingProvider = require('discord.js-commando').SettingProvider;
+const { SettingProvider } = require('discord.js-commando');
 
 /**
  * Uses an MongoDB collection to store settings with guilds
